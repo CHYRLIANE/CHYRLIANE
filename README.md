@@ -2,7 +2,7 @@
 
 ### 💻 Tecnologia | Dados | Inteligência Artificial
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e **Ciências Contábeis**, com especialização em **Ciência de Dados e Inteligência Artificial**.
+Formada em **Análise e Desenvolvimento de Sistemas** e **Ciências Contábeis**, com especialização em **Ciência de Dados e Inteligência Artificial**.
 
 Tenho interesse em desenvolver soluções tecnológicas que conectem **dados, automação, inteligência artificial e gestão de negócios**.
 
